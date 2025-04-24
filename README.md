@@ -8,4 +8,3 @@ states of India.
 oxygen. The goal is to make complex pandemic data easy to understand 
 through interactive visuals
 
-![image](https://github.com/user-attachments/assets/ef726167-e6bf-4d98-8f0c-3aa90a5a1252)
